@@ -1,0 +1,1 @@
+This app takes the link or file of a terms of service document and summarizes it
